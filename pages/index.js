@@ -1,4 +1,4 @@
-import {useAuth} from '../lib/auth';
+import {useAuth} from '@/lib/auth';
 
 export default function Index() {
   const auth=useAuth();
